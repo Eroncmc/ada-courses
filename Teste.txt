@@ -1,2 +1,3 @@
 Este é um teste!
 Este é o segundo teste
+Este é o terceiro teste
