@@ -4,3 +4,4 @@ Este é o terceiro teste
 Este é o quarto teste
 Este é o git pull
 Este é o git pull2
+* Git fetch
